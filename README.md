@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BIazingSun.BIazingSun"/>
 
 <h1 align = "center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=30&letterSpacing=0.5px&duration=10000&width=435&lines=%F0%9F%91%8B+Hi+There;I'm+Dmitrii+Zhukov" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=30&letterSpacing=0.5px&width=435&lines=%F0%9F%91%8B+Hi+Everyone;I'm+Dmitrii+Zhukov" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align = "center"> Student of the Department of Information Systems and Technologies of the Polar State University 🇷🇺 </h3>
