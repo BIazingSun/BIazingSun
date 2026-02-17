@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BIazingSun.BIazingSun"/>
 
-<h1 align = "right">
+<h1 align = "center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=30&letterSpacing=0.5px&duration=10000&width=435&lines=%F0%9F%91%8B+Hi+There;I'm+Dmitrii+Zhukov" alt="Typing SVG" /></a>
 </h1>
 
