@@ -7,7 +7,7 @@ Front=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=40
     </a>
 </h1>
 
-<h3 align = "center"> Student of the Department of Information Systems and Technologies of the Polar State University 🇷🇺
+<h3 align = "center"> Student of the Department of Information Systems and Technologies of the Polar State University 🇷🇺 </h3>
 
 <br/>
 
